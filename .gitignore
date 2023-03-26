@@ -1,7 +1,5 @@
 # Repos
-apache_beam/
-python\ lambda/
-openaiAPI/
+archive/
 
 # Directories
 datasets/
@@ -9,4 +7,3 @@ datasets/
 # Env variables
 .env
 .env.example
-
