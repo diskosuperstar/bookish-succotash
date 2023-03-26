@@ -1,8 +1,12 @@
+# Repos
 apache_beam/
 python\ lambda/
+openaiAPI/
 
+# Directories
 datasets/
 
+# Env variables
 .env
 .env.example
 
