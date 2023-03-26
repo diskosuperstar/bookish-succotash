@@ -1,3 +1,8 @@
 apache_beam/
 python\ lambda/
 
+datasets/
+
+.env
+.env.example
+
